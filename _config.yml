@@ -1,0 +1,28 @@
+name: JoeTest2
+favicon: null
+layout_spectrum: 0.8913300528656691
+typography_spectrum: 0.6423414081800729
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.5269548671785742
+  lightness: 0.03152199345640838
+  saturation: 0.25944733689539135
+  rhythmicContrast: 0.8054645312950015
+purpose: []
